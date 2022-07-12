@@ -1,8 +1,8 @@
 # Pulsar-Stellar Research
 
 This repository contains implementations and illustrative code to accompany
-DeepMind publications. Along with publishing papers to accompany research
-conducted at DeepMind, we release open-source
+Pulsar-Stellar publications. Along with publishing papers to accompany research
+conducted at Pulsar-Stellar, we release open-source
 environments,
 data sets,
 and code to
