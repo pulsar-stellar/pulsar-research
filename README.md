@@ -9,8 +9,8 @@ and code to
 enable the broader research community to engage with our work and build upon it,
 with the ultimate goal of accelerating scientific progress to benefit society.
 For example, you can build on our implementations of the
-[Deep Q-Network] or
-[Differential Neural Computer], or experiment
+Deep Q-Network or
+Differential Neural Computer, or experiment
 in the same environments we use for our research.
 
 If you enjoy building tools, environments, software libraries, and other
